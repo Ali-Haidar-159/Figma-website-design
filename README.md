@@ -8,9 +8,7 @@ This repository contains design files for two distinct projects created in Figma
 
 **Key Features:**
 - User-friendly navigation
-- Product filtering and sorting options
 - Detailed product pages with images and descriptions
-- Secure checkout process
 - Responsive design for optimal viewing on all devices
 
 ## 2. Juice Center Design
@@ -20,7 +18,6 @@ This repository contains design files for two distinct projects created in Figma
 **Key Features:**
 - Eye-catching visuals and branding
 - Juice category selection
-- Customizable juice options
 - Simple and quick ordering process
 - Interactive elements to enhance user engagement
 

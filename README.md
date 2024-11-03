@@ -33,5 +33,7 @@ To view the designs, open the Figma files linked below:
 
 - [Online Shop Design](https://www.figma.com/proto/U914jCuXjztqS0bBdW1ZjK/Shopping-Complex?node-id=3-3&t=LMx7u7cRD6BbnxXH-1&fbclid=IwY2xjawF3lztleHRuA2FlbQIxMAABHZbvTDtnh_8KaxjX_ffatRJaVQhRYLmlUU2YGS-XJ_VNsPcjbAfcFrURhA_aem_emg8ovR939_GpXA_CQpdtw&starting-point-node-id=3%3A3)  
 - [Juice Center Design](https://www.figma.com/proto/Q1jEoXv9K6vgwsebmiPYs0/Juice-Center?node-id=2-2&t=7hKe3qOtoxO3g67E-1&fbclid=IwY2xjawF3lzxleHRuA2FlbQIxMAABHSRht_igNSz7E9jZ1UEv2bRVBT_HahLJ7_wHyf_bc_WDnZvt0PCIkHDWVQ_aem_mtlsSS3Hw1_aoCkepG8xUA)
-  
+- [Portfolio Design](https://www.figma.com/proto/OKIsJjgdXpE4BjUpuPHSja/Shirohige-Landing-Page-(Community)?node-id=0-1&t=sSAzFxJwTtE31Zet-1)
+
+
 Feel free to explore the components, styles, and layouts, and provide any feedback or suggestions!
